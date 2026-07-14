@@ -244,9 +244,12 @@ Computer Science and Engineering (AI & ML)
 
 ## Developed By
 
-**Anand Sai**
+**Kundeti Kranthi Kumar**
+**Thota Chandu Sri**
+**Pedamallu Sarva Lakshmi Hasini**
+**Padala Sai Kalikrishna Pavan**
 
-B.Tech Computer Science & Engineering (AI & ML)
+B.Tech Computer Science & Engineering 
 
 ---
 
