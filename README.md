@@ -244,10 +244,10 @@ Computer Science and Engineering (AI & ML)
 
 ## Developed By
 
-**Kundeti Kranthi Kumar**
-**Thota Chandu Sri**
-**Pedamallu Sarva Lakshmi Hasini**
-**Padala Sai Kalikrishna Pavan**
+**Kundeti Kranthi Kumar,**
+**Thota Chandu Sri,**
+**Pedamallu Sarva Lakshmi Hasini,**
+**Padala Sai Kalikrishna Pavan,**
 
 B.Tech Computer Science & Engineering 
 
